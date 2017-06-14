@@ -1,0 +1,17 @@
+{
+  "name": "shiawa-discordbot",
+  "version": "1.0.0",
+  "description": "Un bot pour le Discord de Shiawa",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^11.1.0",
+    "node-opus": "^0.2.6",
+    "ytdl-core": "^0.14.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kayneth",
+  "license": "ISC"
+}

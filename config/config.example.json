@@ -1,0 +1,11 @@
+{
+  "admin" : 123123123,
+  "private_api_key" : 123123123,
+  "private_guild" : "",
+  "private_database": {
+    "username": "",
+    "password": "",
+    "database": ""
+  },
+  "prefix" : "s!"
+}
